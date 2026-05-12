@@ -66,5 +66,5 @@ These were chosen because they are the only functions that can be tested without
 https://youtu.be/N_XggS_HnmI In this video I explain how to use it. If you have any questions or misunderstandings about the code pls let me know in the comments of the video. Sorry for the background noise in advance.😅
 
 
-# *Thank you to Mr. Malan and the entire CS50P team for this amazing course.* 🙇
-# And Thank YOU for coming by :)
+*Thank you to Mr. Malan and the entire CS50P team for this amazing course.*🙇 
+## And thank YOU for coming by :)
