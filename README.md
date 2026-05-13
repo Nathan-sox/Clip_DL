@@ -52,8 +52,7 @@ Tracks download history using a JSON file (`history.json`). Each entry stores:
 ---
 
 ## 5. test_project.py
-Sadly the tests was written by AI
-Tests two parts of the project:
+Sadly the tests was written by AI, It tests two parts of the project:
 
 - **History functions** — verifies that `save_history` and `load_history` work correctly, including edge cases like missing or empty files, and that `add_to_history` appends entries correctly.
 - **`add_basic_configurations`** — verifies that the function correctly adds the required keys to the `ydl_opts` dictionary without overwriting existing ones.
