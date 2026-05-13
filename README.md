@@ -4,6 +4,7 @@
 ## Description
 Clip_DL is a simple YouTube downloader with a CLI interface. It supports downloading videos, audio, and clips from YouTube links.
 
+Note: You will need to download and install ffmpeg to utilize the trimming function and audio extraction/downloading function.
 ---
 
 ## Project Files
